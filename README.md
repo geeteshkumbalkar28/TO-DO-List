@@ -1,7 +1,7 @@
 # To-Do List Application
 
-Screenshot 2024-02-12 060141.png
-Screenshot 2024-02-12 060233.png
+![Screenshot 1](path/to/screenshot-1.png)
+![Screenshot 2](path/to/screenshot-2.png)
 
 ## Description
 This is a simple To-Do List application built with HTML, CSS, and JavaScript. It allows users to add tasks, mark them as complete, and delete them.
